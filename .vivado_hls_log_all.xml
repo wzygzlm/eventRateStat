@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <synLog/>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <synLog>
+        <logs message="WARNING: [RTGEN 206-101] Register 'glTimerCnt' is power-on initialization." projectName="eventRateStat" solutionName="solution1" date="2020-07-11T13:18:31.652+0200" type="Warning"/>
+        <logs message="WARNING: [SYN 201-107] Renaming port name 'eventRateStat/time' to 'eventRateStat/time_r' to avoid the conflict with HDL keywords or other object names." projectName="eventRateStat" solutionName="solution1" date="2020-07-11T13:18:31.296+0200" type="Warning"/>
+      </synLog>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>
